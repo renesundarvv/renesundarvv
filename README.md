@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rene V.V Sundar
+- 👋 Hi, I’m Rene V.V. Sundar
 - 👀 I’m interested in UI Development
 - 🌱 I’m currently learning React JS
 - 📫 You can reach me at renesundar14@gmail.com
